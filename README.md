@@ -21,3 +21,20 @@ If both multplicand and multiplier are of 4 bits,
 - Number of full adders = 12 - 4 = 8
 - Number of  AND gates = 16
 
+
+b3	b2	b1	b0
+
+a3	a2	a1	a0			  
+       __________________________________________________
+			b3a0	b2a0	b1a0	b0a0   		– PP1
+			
+		b3a1	b2a1	b1a1	b0a1			– PP2
+
+	b3a2	b2a2	b1a2	b0a2				– PP3
+
+b3a3	b2a3	b1a3	b0a3					– PP4
+        __________________________________________________
+	   P7	P6	P5	P4	P3	P2	P1	P0		– Final Product
+
+
+
