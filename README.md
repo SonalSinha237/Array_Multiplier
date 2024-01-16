@@ -18,3 +18,16 @@ Total/Maximum number of adders required for array multiplier = m(n-1)
 Number of half adders = n 
 
 Number of  AND gates = m x n
+
+If both multplicand and multiplier are of 4 bits,
+
+No. of partial products = 4
+
+Total/Maximum number of adders required for array multiplier = 12
+
+Number of half adders = 4
+
+Number of full adders = 12 - 4 = 8
+
+Number of  AND gates = 16
+
