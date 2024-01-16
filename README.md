@@ -7,7 +7,9 @@ No. of bits in multiplicand = m
 No. of bits in multiplier = n
 
 Total/Maximum number of adders required for array multiplier = m(n-1)
+
 Number of half adders = n 
+
 Number of  AND gates = m x n
 
 There are 3 steps involved in this multiplication process:
