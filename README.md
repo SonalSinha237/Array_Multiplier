@@ -9,25 +9,15 @@ There are 3 steps involved in this multiplication process:
 
 If we are multiplying b and a (b x a), then here, we can call **b** as multiplicand and **a** as multiplier. 
 
-No. of bits in multiplicand = m
-
-No. of bits in multiplier = n
-
-Total/Maximum number of adders required for array multiplier = m(n-1)
-
-Number of half adders = n 
-
-Number of  AND gates = m x n
+No. of bits in multiplicand = m ; No. of bits in multiplier = n
+- Total/Maximum number of adders required for array multiplier = m(n-1)
+- Number of half adders = n
+- Number of  AND gates = m x n
 
 If both multplicand and multiplier are of 4 bits,
-
-No. of partial products = 4
-
-Total/Maximum number of adders required for array multiplier = 12
-
-Number of half adders = 4
-
-Number of full adders = 12 - 4 = 8
-
-Number of  AND gates = 16
+- No. of partial products = 4
+- Total/Maximum number of adders required for array multiplier = 12
+- Number of half adders = 4
+- Number of full adders = 12 - 4 = 8
+- Number of  AND gates = 16
 
